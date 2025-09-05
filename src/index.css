@@ -1,0 +1,11 @@
+ /* Bugfix for resizing charts */
+.chartContainer {
+    position: relative;
+    margin: auto;
+    min-height: 300px;
+    max-height: 80vh;
+    max-width: 80vw;
+}
+.chartContainer {
+    position: relative;
+}
